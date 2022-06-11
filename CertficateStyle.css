@@ -1,0 +1,34 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    font-family: sans-serif;
+  }
+
+.Certificates{
+    position: absolute;
+    width: 70%;
+    margin:5px 335px;
+    padding: 20px 20px;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .Certificates li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+  }
+ 
+  li a{
+    position: absolute;
+    margin-right: 10%;
+    text-decoration: none;
+    color: beige;
+    font-weight: bold;
+  }
+   li a:hover{
+    color: rgb(233, 140, 104);
+  }
+
+
